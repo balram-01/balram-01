@@ -1,4 +1,10 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXRlbmg2eWxibXQyOGZiamIxeDN3dnB0NndwNG56cWNlZjdlem1rZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EeZ6mLsRRik8cgnh3D/giphy.gif))]([https://rishavchanda.io](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXRlbmg2eWxibXQyOGZiamIxeDN3dnB0NndwNG56cWNlZjdlem1rZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EeZ6mLsRRik8cgnh3D/giphy.gif))
+<img 
+  align="center" 
+  alt="Coding" 
+  style="width: 100%; height: auto; max-width: 1200px;" 
+  src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
+/>
+
 
 <h1 align="center">Hi 👋, I'm Baliram</h1>
 <h3 align="center">A passionate software developer from India</h3>
