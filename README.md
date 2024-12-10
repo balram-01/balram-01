@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balram-01" alt="balram-01" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/balramshejal" target="blank"><img src="https://img.shields.io/twitter/follow/balramshejal?logo=twitter&style=for-the-badge" alt="balramshejal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/balram01" target="blank"><img src="https://img.shields.io/twitter/follow/balram01?logo=twitter&style=for-the-badge" alt="balram01" /></a> </p>
 
 - 🔭 I’m currently working on **Ocean FM**
 
@@ -17,8 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/balramshejal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="balramshejal" height="30" width="40" /></a>
+<a href="https://twitter.com/balram01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="balram01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/balram shejal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balram shejal" height="30" width="40" /></a>
+<a href="https://instagram.com/the_ironheart_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_ironheart_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
